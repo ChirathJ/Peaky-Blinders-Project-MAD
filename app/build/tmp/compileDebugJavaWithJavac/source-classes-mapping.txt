@@ -1,0 +1,65 @@
+com/example/mad/CustomAdapter.java
+ com.example.mad.CustomAdapter
+ com.example.mad.CustomAdapter$1
+ com.example.mad.CustomAdapter$MyViewHolder
+com/example/mad/databinding/UserprofileBinding.java
+ com.example.mad.databinding.UserprofileBinding
+com/example/mad/databinding/ActivityAddStockBinding.java
+ com.example.mad.databinding.ActivityAddStockBinding
+com/example/mad/databinding/ActivityUpdateStockBinding.java
+ com.example.mad.databinding.ActivityUpdateStockBinding
+com/example/mad/UpdateQuantity.java
+ com.example.mad.UpdateQuantity
+ com.example.mad.UpdateQuantity$1
+ com.example.mad.UpdateQuantity$2
+com/example/mad/databinding/ListBinding.java
+ com.example.mad.databinding.ListBinding
+com/example/mad/databinding/ActivityUpdateQuantityBinding.java
+ com.example.mad.databinding.ActivityUpdateQuantityBinding
+com/example/mad/MyDatabaseHelper.java
+ com.example.mad.MyDatabaseHelper
+com/example/mad/placeholder/PlaceholderContent.java
+ com.example.mad.placeholder.PlaceholderContent
+ com.example.mad.placeholder.PlaceholderContent$PlaceholderItem
+com/example/mad/databinding/EditBinding.java
+ com.example.mad.databinding.EditBinding
+com/example/mad/Home.java
+ com.example.mad.Home
+ com.example.mad.Home$1
+com/example/mad/UpdateStock.java
+ com.example.mad.UpdateStock
+ com.example.mad.UpdateStock$1
+ com.example.mad.UpdateStock$2
+com/example/mad/databinding/DetailsBinding.java
+ com.example.mad.databinding.DetailsBinding
+com/example/mad/BuildConfig.java
+ com.example.mad.BuildConfig
+com/example/mad/databinding/Details1Binding.java
+ com.example.mad.databinding.Details1Binding
+com/example/mad/AddStock.java
+ com.example.mad.AddStock
+ com.example.mad.AddStock$1
+ com.example.mad.AddStock$2
+com/example/mad/databinding/List1Binding.java
+ com.example.mad.databinding.List1Binding
+com/example/mad/databinding/AddstockBinding.java
+ com.example.mad.databinding.AddstockBinding
+com/example/mad/MainActivity.java
+ com.example.mad.MainActivity
+ com.example.mad.MainActivity$1
+com/example/mad/databinding/SplashBinding.java
+ com.example.mad.databinding.SplashBinding
+com/example/mad/databinding/ActivityDetailsStockBinding.java
+ com.example.mad.databinding.ActivityDetailsStockBinding
+com/example/mad/DetailsStock.java
+ com.example.mad.DetailsStock
+ com.example.mad.DetailsStock$1
+ com.example.mad.DetailsStock$2
+ com.example.mad.DetailsStock$3
+ com.example.mad.DetailsStock$4
+ com.example.mad.DetailsStock$5
+ com.example.mad.DetailsStock$6
+com/example/mad/databinding/MyRowBinding.java
+ com.example.mad.databinding.MyRowBinding
+com/example/mad/databinding/AddBinding.java
+ com.example.mad.databinding.AddBinding

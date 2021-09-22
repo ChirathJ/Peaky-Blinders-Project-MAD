@@ -1,0 +1,58 @@
+[
+    {
+        "merged": "C:\\Users\\JAY\\Desktop\\New folder (3)\\app\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\details1.xml",
+        "source": "C:\\Users\\JAY\\Desktop\\New folder (3)\\app\\src\\main\\res\\layout\\details1.xml"
+    },
+    {
+        "merged": "C:\\Users\\JAY\\Desktop\\New folder (3)\\app\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\details.xml",
+        "source": "C:\\Users\\JAY\\Desktop\\New folder (3)\\app\\src\\main\\res\\layout\\details.xml"
+    },
+    {
+        "merged": "C:\\Users\\JAY\\Desktop\\New folder (3)\\app\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\activity_details_stock.xml",
+        "source": "C:\\Users\\JAY\\Desktop\\New folder (3)\\app\\src\\main\\res\\layout\\activity_details_stock.xml"
+    },
+    {
+        "merged": "C:\\Users\\JAY\\Desktop\\New folder (3)\\app\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\add.xml",
+        "source": "C:\\Users\\JAY\\Desktop\\New folder (3)\\app\\src\\main\\res\\layout\\add.xml"
+    },
+    {
+        "merged": "C:\\Users\\JAY\\Desktop\\New folder (3)\\app\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\list1.xml",
+        "source": "C:\\Users\\JAY\\Desktop\\New folder (3)\\app\\src\\main\\res\\layout\\list1.xml"
+    },
+    {
+        "merged": "C:\\Users\\JAY\\Desktop\\New folder (3)\\app\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\edit.xml",
+        "source": "C:\\Users\\JAY\\Desktop\\New folder (3)\\app\\src\\main\\res\\layout\\edit.xml"
+    },
+    {
+        "merged": "C:\\Users\\JAY\\Desktop\\New folder (3)\\app\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\activity_update_stock.xml",
+        "source": "C:\\Users\\JAY\\Desktop\\New folder (3)\\app\\src\\main\\res\\layout\\activity_update_stock.xml"
+    },
+    {
+        "merged": "C:\\Users\\JAY\\Desktop\\New folder (3)\\app\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\activity_add_stock.xml",
+        "source": "C:\\Users\\JAY\\Desktop\\New folder (3)\\app\\src\\main\\res\\layout\\activity_add_stock.xml"
+    },
+    {
+        "merged": "C:\\Users\\JAY\\Desktop\\New folder (3)\\app\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\userprofile.xml",
+        "source": "C:\\Users\\JAY\\Desktop\\New folder (3)\\app\\src\\main\\res\\layout\\userprofile.xml"
+    },
+    {
+        "merged": "C:\\Users\\JAY\\Desktop\\New folder (3)\\app\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\splash.xml",
+        "source": "C:\\Users\\JAY\\Desktop\\New folder (3)\\app\\src\\main\\res\\layout\\splash.xml"
+    },
+    {
+        "merged": "C:\\Users\\JAY\\Desktop\\New folder (3)\\app\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\activity_update_quantity.xml",
+        "source": "C:\\Users\\JAY\\Desktop\\New folder (3)\\app\\src\\main\\res\\layout\\activity_update_quantity.xml"
+    },
+    {
+        "merged": "C:\\Users\\JAY\\Desktop\\New folder (3)\\app\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\addstock.xml",
+        "source": "C:\\Users\\JAY\\Desktop\\New folder (3)\\app\\src\\main\\res\\layout\\addstock.xml"
+    },
+    {
+        "merged": "C:\\Users\\JAY\\Desktop\\New folder (3)\\app\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\list.xml",
+        "source": "C:\\Users\\JAY\\Desktop\\New folder (3)\\app\\src\\main\\res\\layout\\list.xml"
+    },
+    {
+        "merged": "C:\\Users\\JAY\\Desktop\\New folder (3)\\app\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\my_row.xml",
+        "source": "C:\\Users\\JAY\\Desktop\\New folder (3)\\app\\src\\main\\res\\layout\\my_row.xml"
+    }
+]
